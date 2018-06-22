@@ -1,0 +1,88 @@
+{
+  "common": {
+    "agent_admin": "Agent Admin Portal",
+    "change_pwd" : "Change Password",
+    "exit_login": "Log out",
+    "user_old_pwd": "Old password",
+    "user_new_pwd": "New password",
+    "user_confirm_pwd": "Confirm password",
+    "old_pwd_tip": "Enter old password",
+    "new_pwd_tip": "Enter new password",
+    "confirm_pwd_tip": "Confirm password",
+    "new_pwd_success": "Your Password has been changed successfully, please log in again.",
+    "confirm_pwd_error": "The two passwords you typed do not match"
+  },
+  "validate": {
+    "username_not_empty": "User name should not be empty",
+    "password_not_empty": "Password should not be empty",
+    "validatecode_not_empty": "Validate code should not be empty",
+    "field_not_empty": "This field should not be empty",
+    "name_error": "Invalid name",
+    "password_different": "Inconsistency of password input"
+  },
+  "menu": {
+    "dashboard": "Dashboard",
+    "enterprise": "Enterprise",
+    "ap_manage": "AP Manage",
+    "ap_password_manage": "AP Password Manage",
+    "firmware_manage": "Firmware Manage",
+    "portal_manage": "Portal Manage",
+    "para_config": "System Manage",
+    "para_config_list": "Parameters Configuration",
+    "para_config_type": "Parameters Type",
+    "maintenance": "Maintenance"
+  },
+  "placeholder": {
+    "search_mac": "Search MAC",
+    "search_name_email": "Search Name/Email",
+    "search_key": "Search Name/Key"
+  },
+  "title": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "upload": "Upload",
+    "download": "Download"
+  },
+  "button": {
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "close": "Close",
+    "save": "Save",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "submit": "Submit",
+    "preview": "Preview",
+    "finish": "Finish",
+    "upgrade": "Upgrade"
+  },
+  "list": {
+    "actions": "Actions"
+  },
+  "message": {
+    "12002": "Custom templates reach the maximum of 5",
+    "12003": "The save failed and the  name could not be the same",
+    "10033": "password error",
+    "10036": "New password can't be the same as the old one.",
+    "add_success": "Added successfully",
+    "move_success": "Moved successfully",
+    "delete_success": "Deleted successfully",
+    "edit_success": "Edited successfully",
+    "save_success": "Saved successfully",
+    "upload_success": "Uploaded successfully",
+    "submit_success": "Submit successfully",
+    "cancel_upload": "Is it sure that the release of this version is cancelled",
+    "50005": "Invalid parameters",
+    "isDelect": "Are you sure to delete this line?",
+    "60001": "Upload template format error!",
+    "delete_confirm": "Are you sure to delete this AP?",
+    "delete_confirm_tip": "Prompt"
+  },
+  "login": {
+    "account": "Login name",
+    "password": "Password",
+    "sign_in": "Sign In",
+    "validTip": "Click to refresh"
+  }
+}

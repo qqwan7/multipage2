@@ -1,0 +1,88 @@
+{
+  "common": {
+    "agent_admin": "Agent 管理员平台",
+    "change_pwd" : "修改密码",
+    "exit_login": "退出登录",
+    "user_old_pwd": "原密码",
+    "user_new_pwd": "新密码",
+    "user_confirm_pwd": "确认密码",
+    "old_pwd_tip": "请输入原密码",
+    "new_pwd_tip": "请输入新密码",
+    "confirm_pwd_tip": "请确认密码",
+    "new_pwd_success": "密码修改成功，请重新登录",
+    "confirm_pwd_error": "两次输入的密码不一致"
+  },
+  "validate": {
+    "username_not_empty": "用户名不能为空",
+    "password_not_empty": "密码不能为空",
+    "validatecode_not_empty": "验证码不能为空",
+    "field_not_empty": "该字段不可为空",
+    "name_error": "名称不合法",
+    "password_different": "密码输入不一致"
+  },
+  "menu": {
+    "dashboard": "监控面板",
+    "enterprise": "企业信息",
+    "ap_manage": "AP 管理",
+    "ap_password_manage": "AP 密码管理",
+    "firmware_manage": "固件管理",
+    "portal_manage": "策略管理",
+    "para_config": "系统管理",
+    "para_config_list": "参数配置",
+    "para_config_type": "参数类型",
+    "maintenance": "维护"
+  },
+  "placeholder": {
+    "search_mac": "搜索 MAC",
+    "search_name_email": "搜索企业名称/联系人/邮箱",
+    "search_key": "搜索名称/Key"
+  },
+  "title": {
+    "add": "添加",
+    "edit": "编辑",
+    "delete": "删除",
+    "upload": "上传",
+    "download": "下载"
+  },
+  "button": {
+    "ok": "确定",
+    "cancel": "取消",
+    "close": "关闭",
+    "save": "保存",
+    "add": "添加",
+    "edit": "编辑",
+    "delete": "删除",
+    "submit": "提交",
+    "preview": "预览",
+    "finish": "结束",
+    "upgrade": "更新"
+  },
+  "list": {
+    "actions": "操作"
+  },
+  "message": {
+    "12002": "自定义模板达到最大5个",
+    "12003": "保存失败，名称不能相同",
+    "10033": "密码不正确",
+    "10036": "新密码与原密码一致",
+    "add_success": "添加成功",
+    "move_success": "移动成功",
+    "delete_success": "删除成功",
+    "edit_success": "编辑成功",
+    "save_success": "保存成功",
+    "upload_success": "上传成功",
+    "submit_success": "提交成功",
+    "cancel_upload": "是否确定取消上传此版本",
+    "50005": "参数无效",
+    "isDelect": "确定删除此行?",
+    "60001": "上传模板格式错误",
+    "delete_confirm": "确定删除当前AP?",
+    "delete_confirm_tip": "提示"
+  },
+  "login": {
+    "account": "用户名",
+    "password": "密码",
+    "sign_in": "登录",
+    "validTip": "点击刷新"
+  }
+}
